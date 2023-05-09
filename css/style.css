@@ -325,7 +325,7 @@ background-color: var(--menu-link-color);
 }
 .galary-button :hover,
 .galary-button :focus{
-	border: 1px solid #E7E9FC;
+	border: 1px solid transparent;
 }
 .galary-button{
 padding-top: 12px;
